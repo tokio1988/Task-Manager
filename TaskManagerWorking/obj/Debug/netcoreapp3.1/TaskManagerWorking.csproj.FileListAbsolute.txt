@@ -1,0 +1,13 @@
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\bin\Debug\netcoreapp3.1\TaskManagerWorking.exe
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\bin\Debug\netcoreapp3.1\TaskManagerWorking.deps.json
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\bin\Debug\netcoreapp3.1\TaskManagerWorking.runtimeconfig.json
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\bin\Debug\netcoreapp3.1\TaskManagerWorking.runtimeconfig.dev.json
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\bin\Debug\netcoreapp3.1\TaskManagerWorking.dll
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\bin\Debug\netcoreapp3.1\TaskManagerWorking.pdb
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\obj\Debug\netcoreapp3.1\TaskManagerWorking.csprojAssemblyReference.cache
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\obj\Debug\netcoreapp3.1\TaskManagerWorking.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\obj\Debug\netcoreapp3.1\TaskManagerWorking.AssemblyInfo.cs
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\obj\Debug\netcoreapp3.1\TaskManagerWorking.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\obj\Debug\netcoreapp3.1\TaskManagerWorking.dll
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\obj\Debug\netcoreapp3.1\TaskManagerWorking.pdb
+C:\Users\lukas\source\repos\TaskManagerWorking\TaskManagerWorking\obj\Debug\netcoreapp3.1\TaskManagerWorking.genruntimeconfig.cache
